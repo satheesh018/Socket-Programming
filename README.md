@@ -1,7 +1,6 @@
 # Socket-Programming
 
-The Folder TCP project is having the source code.
-The Folder Jar and docker files have the jar files of the project and the docker files to run those jars.
+The folder TCP project is having the source code and the  folder Jar and docker files have the jar files of the project and the docker files to run those jars.
 
 ## How to run the project
 
